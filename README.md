@@ -12,7 +12,7 @@ You set the rules. A simulated agent then tries random payments every few second
 
 Approved payments go green and count toward the cap. Blocked ones go red with the reason. The progress bar updates live.
 
-**Everything runs client-side in React state.** No backend, no blockchain, no real money — this is M1 (UI) + M2 (mock rule logic) only.
+**Everything runs client-side in React state.** No backend, no blockchain, no real money — this is (UI) + (mock rule logic) only.
 
 ## Features
 
